@@ -1,20 +1,54 @@
 # -Web-Crawler-examples-for-beginners
-# 🕷️ 爬虫实战宝典 · 从入门到反爬对抗
+# 🕷️ 爬虫实战示例集 · 开箱即学
 
-[![Python](https://img.shields.io/badge/Python-3.10%2B-blue?logo=python)](https://www.python.org/)
+[![Python](https://img.shields.io/badge/Python-3.10+-blue?logo=python)](https://www.python.org/)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
-[![Stars](https://img.shields.io/github/stars/yourname/webscraper-learning?style=social)](https://github.com/yourname/webscraper-learning)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
+[![Stars](https://img.shields.io/github/stars/yourname/web-scraper-examples?style=social)](https://github.com/yourname/web-scraper-examples)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen)](CONTRIBUTING.md)
 
-> 📘 **一份给爬虫学习者的实战指南** —— 代码整洁、注释清晰、场景全面，从静态页面到动态渲染，从简单请求到反爬策略，每一步都为你拆解明白。
+> 🚀 **20+ 个爬虫实战示例，代码整洁、注释详尽，从静态页面到动态渲染，从基础请求到反爬对抗，全部可运行，拿来就能学！**
 
-**Scraper = 请求 + 解析 + 存储 + 策略** —— 本书（仓库）围绕这个核心公式，用 **20+ 个可运行示例** 带你走过爬虫的完整链路。每个示例都配有详细的 **中文注释** 和 **运行说明**，让你不仅能用，更能懂。
+---
 
-| 📂 **20+** 实战案例 | 🧩 **10+** 常见反爬方案 | 📖 **100%** 代码注释覆盖 |
-| :---: | :---: | :---: |
+## ✨ 这个仓库有什么？
+
+- 🌐 **基础请求**：`requests` / `aiohttp`，重试、超时、会话保持
+- 🧹 **数据解析**：XPath、CSS 选择器、正则、BeautifulSoup 实战对比
+- 🏗️ **动态渲染**：Selenium / Playwright 无头浏览器，等待策略、截图拦截
+- 🛡️ **反爬对抗**：代理轮换、请求指纹、字体反爬、OCR 识别、滑块模拟
+- 💾 **数据存储**：JSON / CSV / SQLite / MySQL 写入与增量更新
+- ⚡ **并发调度**：多线程、协程、分布式去重（Redis）
+
+> 💡 每个示例都配有独立的中文注释和运行说明，适合自学、教学或作为项目起点。
+
+---
+
+## 🎯 为什么值得一看？
+
+- **即改即用**：所有代码都预留了可替换的占位参数，接入你的目标网站只需修改几行。
+- **场景全面**：覆盖爬虫全链路，从发请求到存数据，不落下任何一个环节。
+- **学习友好**：每个文件顶部都有“学习目标”，底部有“注意事项”，边看边练。
+- **持续更新**：欢迎提 PR 补充新案例，一起打造最实用的爬虫示例库。
+
+---
+
+## 🤝 参与贡献
+
+发现 Bug？想新增案例？优化注释？欢迎提交 Issue 或 Pull Request！
+
+---
+
+## 📄 许可证
+
+[MIT License](LICENSE) — 自由使用、修改、分发，保留版权声明即可。
+
+---
+
+## ⭐ 给个 Star 吧
+
+如果这个仓库对你有帮助，点个 ⭐ 就是对我最大的鼓励，也让更多人看到！
 
 
-## 🚀 快速开始
+---
 
-### 环境要求
-- Python 3.10+（推荐 3.11）
+**开始你的爬虫之旅吧！** 🕸️
