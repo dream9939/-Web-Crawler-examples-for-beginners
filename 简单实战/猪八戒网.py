@@ -8,7 +8,7 @@ from lxml import etree
 
 url = "https://beijing.zbj.com/search/service/?kw=saas&r=1"  # 目标网址
 
-headers = {"user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36"}
+headers = {"user-agent":""}
 
 resp = requests.get(url,headers=headers)
 
