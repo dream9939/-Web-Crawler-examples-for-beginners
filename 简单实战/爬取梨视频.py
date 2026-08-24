@@ -11,7 +11,7 @@ videostatus = f"https://www.pearvideo.com/videoStatus.jsp?contId={contid}&mrd=0.
 #设置请求头
 headers = {
     "referer": "https://www.pearvideo.com/video_1807134",#这是防盗链
-    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36"
+    "user-agent": ""
 }
 
 resp = requests.get(videostatus,headers=headers)
