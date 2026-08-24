@@ -7,7 +7,7 @@ url ="https://xy58x49x253x139xy.mcdn.bilivideo.cn:8082/v1/resource/upgcxcode/52/
 
 
 #伪装成浏览器
-headers = {"User-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36",
+headers = {"User-agent":"",
     "Referer":"https://www.bilibili.com/video/BV11P4y1K7Qp/?spm_id_from=333.337.search-card.all.click&vd_source=f60dfbe593b3f71363a1366b99a330ad"}
 
 #获取视频
