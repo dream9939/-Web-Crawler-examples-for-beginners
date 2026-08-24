@@ -2,7 +2,7 @@ import requests
 import re
 url = "http://movie.douban.com/top250"
 headers = {
-    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36"
+    "user-agent": ""
 }
 resp = requests.get(url, headers=headers)
 page_content = resp.text  #变量page_content储存网页源码
