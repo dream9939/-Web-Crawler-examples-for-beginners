@@ -2,7 +2,7 @@ import requests
 
 #url = "https://p1.music.126.net/02Hk2WjXmxHd1_A3biSrsg==/109951173799595653.png?imageView&quality=89"
 
-headers = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3"}
+headers = {"User-Agent": ""}
 
 #resp = requests.get(url,headers=headers)
 
