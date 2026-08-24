@@ -1,5 +1,5 @@
 # -Web-Crawler-examples-for-beginners
-# 🕷️ 爬虫实战示例集 · 开箱即学
+#  爬虫实战示例集 · 开箱即学
 
 [![Python](https://img.shields.io/badge/Python-3.10+-blue?logo=python)](https://www.python.org/)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
@@ -14,6 +14,7 @@
 
 - 🌐 **基础请求**：`requests` / `aiohttp`，重试、超时、会话保持
 - 🧹 **数据解析**：XPath、CSS 选择器、正则、BeautifulSoup 实战对比
+- 后面的暂时还没有，哈哈
 - 🏗️ **动态渲染**：Selenium / Playwright 无头浏览器，等待策略、截图拦截
 - 🛡️ **反爬对抗**：代理轮换、请求指纹、字体反爬、OCR 识别、滑块模拟
 - 💾 **数据存储**：JSON / CSV / SQLite / MySQL 写入与增量更新
@@ -51,4 +52,4 @@
 
 ---
 
-**开始你的爬虫之旅吧！** 🕸️
+**开始你的爬虫之旅吧！** 
