@@ -3,8 +3,6 @@
 
 [![Python](https://img.shields.io/badge/Python-3.10+-blue?logo=python)](https://www.python.org/)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
-[![Stars](https://img.shields.io/github/stars/dream9939/web-scraper-examples?style=social)](https://github.com/dream9939/web-scraper-examples)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen)](CONTRIBUTING.md)
 
 > 🚀 **20+ 个爬虫实战示例，代码整洁、注释详尽，从静态页面到动态渲染，从基础请求到反爬对抗，全部可运行，拿来就能学！**
 
