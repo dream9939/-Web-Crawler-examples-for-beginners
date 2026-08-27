@@ -3,7 +3,7 @@
 
 [![Python](https://img.shields.io/badge/Python-3.10+-blue?logo=python)](https://www.python.org/)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
-[![Stars](https://img.shields.io/github/stars/yourname/web-scraper-examples?style=social)](https://github.com/yourname/web-scraper-examples)
+[![Stars](https://img.shields.io/github/stars/dream9939/web-scraper-examples?style=social)](https://github.com/dream9939/web-scraper-examples)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen)](CONTRIBUTING.md)
 
 > 🚀 **20+ 个爬虫实战示例，代码整洁、注释详尽，从静态页面到动态渲染，从基础请求到反爬对抗，全部可运行，拿来就能学！**
@@ -42,6 +42,7 @@
 ## 📄 许可证
 
 [MIT License](LICENSE) — 自由使用、修改、分发，保留版权声明即可。
+user-agent已隐藏，需要用的开发者只需要填上自己的或者使用代理IP即可。
 
 ---
 
